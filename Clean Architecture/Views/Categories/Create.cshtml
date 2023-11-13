@@ -1,0 +1,21 @@
+﻿@model Clean.Application.Dtos.CategoryDTO
+@{
+    ViewData["Title"] = "Create - categories";
+}
+
+<form  asp-action="Create" method="post">
+
+<div class="form-group mb-3">
+  <span class="" id="basic-addon1">Name</span>
+  <div class="col-md-10">
+    <input asp-for="Name" class="form-control">
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+    </div>
+
+<a href="@Url.Action("Index","Categories")" title="Details" class="btn btn-secondary">
+    <span class="fas fa-search">Back</span>
+</a>
+
+<button type="submit" class="btn btn-success">Create </button>
+</form>

@@ -1,0 +1,15 @@
+﻿@model Clean.Application.Dtos.CategoryDTO
+@{
+    ViewData["Title"] = "Delete - categories";
+}
+
+<form asp-action="DeleteId" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="text-center">
+    <h2>Deseja deletar a categoria @Html.DisplayFor(x=>x.Name)?</h2>
+    <a href="@Url.Action("Index","Categories")" title="Details" class="btn btn-secondary">
+       <span class="fas fa-search">Back</span>
+    </a>
+    <button type="submit" class="btn btn-success">Delete</button>
+    </div>
+</form>

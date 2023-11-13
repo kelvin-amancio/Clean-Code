@@ -1,0 +1,12 @@
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\bin\Debug\net7.0\Clean.Razor.Components.deps.json
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\bin\Debug\net7.0\Clean.Razor.Components.dll
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\bin\Debug\net7.0\Clean.Razor.Components.pdb
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\Clean.Razor.Components.csproj.AssemblyReference.cache
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\Clean.Razor.Components.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\Clean.Razor.Components.AssemblyInfoInputs.cache
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\Clean.Razor.Components.AssemblyInfo.cs
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\Clean.Razor.Components.csproj.CoreCompileInputs.cache
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\Clean.Razor.Components.dll
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\refint\Clean.Razor.Components.dll
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\Clean.Razor.Components.pdb
+D:\Programação\Clean Architecture\Clean Architecture\Clean.Razor.Components\obj\Debug\net7.0\ref\Clean.Razor.Components.dll

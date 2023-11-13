@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Clean_Architecture</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Clean.IoC\Clean.IoC.csproj" />
+    <ProjectReference Include="..\Clean.Razor.Components\Clean.Razor.Components.csproj" />
+  </ItemGroup>
+
+</Project>
